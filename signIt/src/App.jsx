@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import theme from './styles/theme';
-import GlobalStyles from './styles/GlobalStyles';
+// import GlobalStyles from './styles/GlobalStyles';
 import Header from './components/Header';
 import Home from './pages/Home';
 import Translator from './pages/Translator';
